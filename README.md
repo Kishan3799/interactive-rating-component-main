@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Kishan3799/interactive-rating-component-main](https://github.com/Kishan3799/interactive-rating-component-main)
+- Live Site URL: [https://effervescent-sherbet-d89c29.netlify.app/](https://effervescent-sherbet-d89c29.netlify.app/)
 
 ## My process
 
@@ -48,6 +48,6 @@ Users should be able to:
 - Mobile-first workflow
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Kishan Verma](https://www.frontendmentor.io/profile/Kishan3799)
 
 
